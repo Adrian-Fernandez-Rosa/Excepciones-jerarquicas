@@ -13,7 +13,7 @@ import java.util.Locale;
  * que implementar esta nueva clase.
  *
  * A consecuencia de estos cambios, y al mantener durante un tiempo de transicion
- * la vieja clase, se recomienda utilizar un patrón "facade" que escona al desarrollador
+ * la vieja clase, se recomienda utilizar un patrón "facade" que esconda al desarrollador
  * final esta transición
  *
  * Al utilizar el patron facade, en primera instancia, el desarrollador deberá invocar

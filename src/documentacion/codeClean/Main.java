@@ -16,7 +16,7 @@ public class Main {
     usuario.puedeConducir = false;
 
     try {
-        usuarios.añadirUsuarios(usuario,usuario);
+        usuarios.anadirUsuarios(usuario,usuario);
 
     } catch(UserException e){
         System.out.println("Error al añadir objeto de usuario: "+ e.getMessage());
